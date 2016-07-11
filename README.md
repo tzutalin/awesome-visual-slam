@@ -7,20 +7,23 @@
 - [Sophus](https://github.com/strasdat/Sophus)
 - [ROS](http://www.ros.org/)
 - [PointCloud](http://pointclouds.org/)
+
 ###### Loop detection
 - [dorian3d](https://github.com/dorian3d)
+
 ###### Graph Optimization
 - [ceres-solver](https://github.com/ceres-solver/ceres-solver)
 - [g2o](https://github.com/RainerKuemmerle/g2o)
 - [gtasm](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 - [Vertigo](http://openslam.org/vertigo.html)
+
 ###### Map library
 - [ETHZ ASL/Grip Map](https://github.com/ethz-asl/grid_map)
-- [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) 
+- [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki)
 - [OctoMap](https://github.com/OctoMap/octomap)
 
 ### Experient/Benchmark/Test dataset
-- [TUM Universtiy](http://vision.in.tum.de/data/datasets/rgbd-dataset/download) 
+- [TUM Universtiy](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 - [KTTI Vision benchmark](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
 ### Nice Repositories
@@ -31,7 +34,7 @@
 ###### RGB (Monocular):
 
 - [LSD-SLAM](https://github.com/tum-vision/lsd_slam). Available on ROS
->LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14 
+>LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 >Semi-Dense Visual Odometry for a Monocular Camera, J. Engel, J. Sturm, D. Cremers, ICCV '13
 
 - [ORB-SLAM](https://github.com/raulmur/ORB_SLAM). Available on ROS : Yes
@@ -55,6 +58,6 @@
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
 
-- [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2). 
+- [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2).
 > [1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > [2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
