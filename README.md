@@ -1,4 +1,4 @@
- The list of vision-based SLAM / Visual Odometry open source, blogs, and papers
+ # The list of vision-based SLAM / Visual Odometry open source, blogs, and papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam)
 
@@ -7,7 +7,8 @@
 * [Dataset](#dataset)
 * [Tools](#tools)
 * [Projects](#projects)
-* [Courses](pages/courses.md)
+* [Learn](pages/learn.md)
+* [Miscellaneous](pages/miscellaneous.md)
 
 ## Libraries
 ###### Basic vision and trasformation libraries
