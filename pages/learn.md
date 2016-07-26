@@ -8,5 +8,4 @@ Learn
 * [Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
 * [Computer Vision II: Multiple View Geometry  - TUM](http://vision.in.tum.de/teaching/ss2016/mvg2016)
 * [Advanced Robotics - UCBerkeley](http://www.cs.berkeley.edu/~pabbeel/)
-
-
+* [Convolutional Neural Network-Based Image Representation for Visual Loop Closure Detection] (https://arxiv.org/pdf/1504.05241.pdf)
