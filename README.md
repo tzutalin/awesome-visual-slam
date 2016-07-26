@@ -21,7 +21,7 @@
 ##### Thread-safe queue libraries
 - [concurrentqueue](https://github.com/cameron314/concurrentqueue)
 - [Intel® TBB](https://www.threadingbuildingblocks.org/)
-- [Face folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h)
+- [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h)
 
 ###### Loop detection
 - [dorian3d](https://github.com/dorian3d)
