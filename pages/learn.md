@@ -9,3 +9,4 @@ Learn
 * [Computer Vision II: Multiple View Geometry  - TUM](http://vision.in.tum.de/teaching/ss2016/mvg2016)
 * [Advanced Robotics - UCBerkeley](http://www.cs.berkeley.edu/~pabbeel/)
 * [Convolutional Neural Network-Based Image Representation for Visual Loop Closure Detection] (https://arxiv.org/pdf/1504.05241.pdf)
+* [Short introduction to signed distance function](http://rsdavis.mycpanel.princeton.edu/wp/?p=24)
