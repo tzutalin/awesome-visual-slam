@@ -66,7 +66,7 @@ Dataset for benchmark/test/experiment/evalutation
 - [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo). Available on ROS
 > Christian Forster, Matia Pizzoli, Davide Scaramuzza, "SVO: Fast Semi-direct Monocular Visual Odometry," IEEE International Conference on Robotics and Automation, 2014.
 
-###### RGB and Depth:
+###### RGB and Depth (Called RGBD):
 - [OpenCV RGBD-Odometry (Visual Odometry based RGB-D images)](https://github.com/tzutalin/OpenCV-RgbdOdometry)
 > Real-Time Visual Odometry from Dense RGB-D Images, F. Steinbucker, J. Strum, D. Cremers, ICCV, 2011
 
@@ -83,6 +83,9 @@ Dataset for benchmark/test/experiment/evalutation
 - [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2). Available on ROS
 > [1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > [2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
+
+###### RGBD and Laser:
+- [Google's cartographer](https://github.com/googlecartographer/cartographer). Available on ROS
 
 ## License
 
