@@ -88,7 +88,7 @@ Dataset for benchmark/test/experiment/evalutation
 > [1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > [2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
 
-###### RGBD and Laser:
+###### RGBD and LIDAR:
 - [Google's cartographer](https://github.com/googlecartographer/cartographer). Available on ROS
 
 ## License
