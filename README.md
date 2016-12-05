@@ -52,6 +52,10 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGB (Monocular):
 
+- [DSO](https://github.com/JakobEngel/dso_ros). Available on ROS
+>Direct Sparse Odometry, J. Engel, V. Koltun, D. Cremers, In arXiv:1607.02565, 2016
+>A Photometrically Calibrated Benchmark For Monocular Visual Odometry, J. Engel, V. Usenko, D. Cremers, In arXiv:1607.02555, 2016
+
 - [LSD-SLAM](https://github.com/tum-vision/lsd_slam). Available on ROS
 >LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 >Semi-Dense Visual Odometry for a Monocular Camera, J. Engel, J. Sturm, D. Cremers, ICCV '13
