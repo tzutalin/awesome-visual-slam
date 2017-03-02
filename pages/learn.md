@@ -16,6 +16,7 @@ Learn
 
 
 #### Books
+* [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](https://pixhawk.org/_media/dev/know-how/jlblanco2010geometry3d_techrep.pdf) By JL Blanco, 2014
 * [State Estimation for Robotic -- A Matrix Lie Group Approach](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser15.pdf) by Timothy D. Barfoot, 2016
 * [Simultaneous Localization and Mapping for Mobile Robots: Introduction and Methods](http://www.igi-global.com/book/simultaneous-localization-mapping-mobile-robots/66380) by Juan-Antonio Fernández-Madrigal and José Luis Blanco Claraco, 2012
 * [Probabilistic Robotics](http://www.probabilistic-robotics.org/) by Dieter Fox, Sebastian Thrun, and Wolfram Burgard, 2005
