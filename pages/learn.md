@@ -2,6 +2,7 @@ Learn
 ======================
 
 #### Article & blogs
+* [Introduction to Epipolar Geometry and the Fundamental Matrix](http://www.umiacs.umd.edu/~ramani/cmsc828d/lecture27.pdf)
 * [Short introduction to descriptors](https://gilscvblog.com/2013/08/18/a-short-introduction-to-descriptors/)
 * [Tutorial on binary descriptors](https://gilscvblog.com/2013/08/26/tutorial-on-binary-descriptors-part-1/)
 * [Latch descriptor](https://gilscvblog.com/2015/11/07/performance-evaluation-of-binary-descriptor-introducing-the-latch-descriptor)
