@@ -14,7 +14,7 @@ Learn
 #### Online free courses
 * [Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
 * [Multiple View Geometry (Prof. D. Cremers) - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
-
+* [Robot Percetion](https://www.coursera.org/learn/robotics-perception/lecture/Bwk0d/epipolar-geometry-i)
 
 #### Books
 * [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](https://pixhawk.org/_media/dev/know-how/jlblanco2010geometry3d_techrep.pdf) By JL Blanco, 2014
@@ -30,4 +30,4 @@ Learn
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
 - [Direct Sparse Odometry](https://arxiv.org/abs/1607.02565) (2016)
 - [Modelling Uncertainty in Deep Learning for Camera Relocalization](https://arxiv.org/abs/1509.05909) (2016)
-* [Convolutional Neural Network-Based Image Representation for Visual Loop Closure Detection] (https://arxiv.org/pdf/1504.05241.pdf) (2015)
+* [Convolutional Neural Network-Based Image Representation for Visual Loop Closure Detection](https://arxiv.org/pdf/1504.05241.pdf) (2015)
