@@ -16,6 +16,7 @@ Learn
 * [Multiple View Geometry (Prof. D. Cremers) - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
 * [Robot Percetion](https://www.coursera.org/learn/robotics-perception/lecture/Bwk0d/epipolar-geometry-i)
 
+
 #### Books
 * [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](https://pixhawk.org/_media/dev/know-how/jlblanco2010geometry3d_techrep.pdf) By JL Blanco, 2014
 * [State Estimation for Robotic -- A Matrix Lie Group Approach](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser15.pdf) by Timothy D. Barfoot, 2016
@@ -24,6 +25,7 @@ Learn
 * [An Invitation to 3-D Vision -- from Images to Geometric Models](http://vision.ucla.edu/MASKS/) by Yi Ma, Stefano Soatto, Jana Kosecka and Shankar S. Sastry, 2005
 * [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004
 * [Numerical Optimization](http://home.agh.edu.pl/~pba/pdfdoc/Numerical_Optimization.pdf) by Jorge Nocedal and Stephen J. Wright, 1999
+* [Real Time Monocular 3D Reconstruction](https://fradelg.gitbooks.io/real-time-3d-reconstruction-from-monocular-video/content/index.html) by Fco. Javier Delgado del Hoyo, 2015
 
 
 #### Papers
