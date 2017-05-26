@@ -33,3 +33,4 @@ Learn
 - [Direct Sparse Odometry](https://arxiv.org/abs/1607.02565) (2016)
 - [Modelling Uncertainty in Deep Learning for Camera Relocalization](https://arxiv.org/abs/1509.05909) (2016)
 * [Convolutional Neural Network-Based Image Representation for Visual Loop Closure Detection](https://arxiv.org/pdf/1504.05241.pdf) (2015)
+* [Lucas-Kanade 20 Years On: A Unifying Framework](http://www.ncorr.com/download/publications/bakerunify.pdf)
