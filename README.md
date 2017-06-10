@@ -52,6 +52,11 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGB (Monocular):
 
+- [PTAM](https://github.com/Oxford-PTAM/PTAM-GPL)
+> [1] Georg Klein and David Murray, "Parallel Tracking and Mapping for Small AR Workspaces", Proc. ISMAR 2007
+> [2] Georg Klein and David Murray, "Improving the Agility of Keyframe-based SLAM", Proc. ECCV 2008
+
+
 - [DSO](https://github.com/JakobEngel/dso_ros). Available on ROS
 >Direct Sparse Odometry, J. Engel, V. Koltun, D. Cremers, In arXiv:1607.02565, 2016
 >A Photometrically Calibrated Benchmark For Monocular Visual Odometry, J. Engel, V. Usenko, D. Cremers, In arXiv:1607.02555, 2016
@@ -87,6 +92,19 @@ Dataset for benchmark/test/experiment/evalutation
 - [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2). Available on ROS
 > [1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > [2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
+
+- [InfiniTAM∞ v2](http://www.robots.ox.ac.uk/~victor/infinitam/index.html)
+> Kahler, O. and Prisacariu, V.~A. and Ren, C.~Y. and Sun, X. and Torr, P.~H.~S and Murray, D.~W. Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device. IEEE Transactions on Visualization and Computer Graphics (Proceedings International Symposium on Mixed and Augmented Reality 2015
+
+- [Kintinuous](https://github.com/mp3guy/Kintinuous)
+> Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14
+
+- [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
+> [1] ElasticFusion: Real-Time Dense SLAM and Light Source Estimation, T. Whelan, R. F. Salas-Moreno, B. Glocker, A. J. Davison and S. Leutenegger, IJRR '16
+> [2] ElasticFusion: Dense SLAM Without A Pose Graph, T. Whelan, S. Leutenegger, R. F. Salas-Moreno, B. Glocker and A. J. Davison, RSS '15
+
+- [Co-Fusion](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html)
+> Martin Rünz and Lourdes Agapito. Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects. 2017 IEEE International Conference on Robotics and Automation (ICRA)
 
 ###### RGBD and LIDAR:
 - [Google's cartographer](https://github.com/googlecartographer/cartographer). Available on ROS
