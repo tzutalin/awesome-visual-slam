@@ -11,6 +11,9 @@ Learn
 * [Short introduction to signed distance function 2](http://www.personal.psu.edu/users/j/p/jpm5375/assignment6.html/)
 
 
+### Online tutorial videos
+* [Slambook in Chinese](https://space.bilibili.com/38737757#!/)
+
 #### Online free courses
 * [Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
 * [Multiple View Geometry (Prof. D. Cremers) - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
