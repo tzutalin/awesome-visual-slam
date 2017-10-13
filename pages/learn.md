@@ -32,6 +32,7 @@ Learn
 
 
 #### Papers
+- [Online Photometric Calibration for Auto Exposure Video for Realtime Visual Odometry and SLAM](http://arxiv.org/pdf/1710.02081v1) (2017)
 - [Visual-Inertial Direct SLAM](https://github.com/kanster/awesome-slam/blob/master/webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf) (2016)
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
 - [Direct Sparse Odometry](https://arxiv.org/abs/1607.02565) (2016)
