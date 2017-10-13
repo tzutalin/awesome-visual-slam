@@ -32,6 +32,7 @@ Learn
 
 
 #### Papers
+- [CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjZ-NWF_-zWAhXIEpQKHX_BCUAQFgg0MAI&url=http%3A%2F%2Fcampar.in.tum.de%2Fpub%2Ftateno2017cvpr%2Ftateno2017cvpr.pdf&usg=AOvVaw0O2qiB3IPWDg7rJYEs3OQU) (2017)
 - [Online Photometric Calibration for Auto Exposure Video for Realtime Visual Odometry and SLAM](http://arxiv.org/pdf/1710.02081v1) (2017)
 - [Visual-Inertial Direct SLAM](https://github.com/kanster/awesome-slam/blob/master/webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf) (2016)
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
