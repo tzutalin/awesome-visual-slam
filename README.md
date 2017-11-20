@@ -46,7 +46,8 @@ Dataset for benchmark/test/experiment/evalutation
 - [UNI-Freiburg](http://kaspar.informatik.uni-freiburg.de/~slamEvaluation/datasets.php)
 
 ## Tools
-- [rgbd-datasest tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
+- [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
+- [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo)
 
 ## Projects
 
