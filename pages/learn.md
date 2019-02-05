@@ -17,7 +17,7 @@ Learn
 #### Online free courses
 * [Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
 * [Multiple View Geometry (Prof. D. Cremers) - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
-* [Robot Percetion](https://www.coursera.org/learn/robotics-perception/lecture/Bwk0d/epipolar-geometry-i)
+* [Robot Percetion](https://www.coursera.org/learn/robotics-perception)
 
 
 #### Books
