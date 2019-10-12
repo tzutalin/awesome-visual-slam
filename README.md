@@ -110,6 +110,13 @@ Dataset for benchmark/test/experiment/evalutation
 ###### RGBD and LIDAR:
 - [Google's cartographer](https://github.com/googlecartographer/cartographer). Available on ROS
 
+
+## Other open source projects
+[DynaSLAM](https://github.com/BertaBescos/DynaSLAM) A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
+
+[openvslam](https://github.com/xdspacelab/openvslam) A Versatile Visual SLAM Framework
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
