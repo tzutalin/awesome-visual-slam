@@ -53,6 +53,9 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGB (Monocular):
 
+- [Kimera](https://github.com/MIT-SPARK/Kimera). Available on ROS
+> A. Rosinol, M. Abate, Y. Chang, L. Carlone. Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. arXiv preprint arXiv:1910.02490.
+
 - [PTAM](https://github.com/Oxford-PTAM/PTAM-GPL)
 > [1] Georg Klein and David Murray, "Parallel Tracking and Mapping for Small AR Workspaces", Proc. ISMAR 2007
 > [2] Georg Klein and David Murray, "Improving the Agility of Keyframe-based SLAM", Proc. ECCV 2008
