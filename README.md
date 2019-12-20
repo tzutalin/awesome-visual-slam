@@ -44,6 +44,14 @@ Dataset for benchmark/test/experiment/evalutation
 - [TUM Universtiy](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 - [KITTI Vision benchmark](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 - [UNI-Freiburg](http://kaspar.informatik.uni-freiburg.de/~slamEvaluation/datasets.php)
+- [ADVIO](https://github.com/AaltoVision/ADVIO)
+- [Oxford RobotCar Dataset](https://robotcar-dataset.robots.ox.ac.uk/)
+- [HRI (Honda Research Institute) Driving Datasets](https://usa.honda-ri.com/honda-driving-datasets)
+- [Argoverse](https://www.argoverse.org/data.html)
+- [nuScenes](https://www.nuscenes.org)
+- [Waymo Open Dataset](https://waymo.com/open/)
+- [Lyft Level 5 AV Dataset 2019](https://level5.lyft.com/dataset/)
+- [KAIST Urban Dataset](https://irap.kaist.ac.kr/dataset/)
 
 ## Tools
 - [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
