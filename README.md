@@ -29,7 +29,7 @@
 ###### Graph Optimization
 - [ceres-solver](https://github.com/ceres-solver/ceres-solver)
 - [g2o](https://github.com/RainerKuemmerle/g2o)
-- [gtasm](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
+- [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 - [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
