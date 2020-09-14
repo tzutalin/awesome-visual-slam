@@ -56,6 +56,7 @@ Dataset for benchmark/test/experiment/evalutation
 ## Tools
 - [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 - [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo)
+- [VDO_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) 
 
 ## Projects
 
