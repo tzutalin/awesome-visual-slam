@@ -41,7 +41,7 @@
 
 Dataset for benchmark/test/experiment/evalutation
 
-- [TUM Universtiy](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
+- [TUM University](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 - [KITTI Vision benchmark](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 - [UNI-Freiburg](http://kaspar.informatik.uni-freiburg.de/~slamEvaluation/datasets.php)
 - [ADVIO](https://github.com/AaltoVision/ADVIO)
