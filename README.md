@@ -33,7 +33,7 @@
 - [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
-- [ETHZ ASL/Grip Map](https://github.com/ethz-asl/grid_map)
+- [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map)
 - [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki)
 - [OctoMap](https://github.com/OctoMap/octomap)
 
