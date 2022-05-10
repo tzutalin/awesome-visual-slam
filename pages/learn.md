@@ -29,6 +29,7 @@ Learn
 * [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004
 * [Numerical Optimization](http://home.agh.edu.pl/~pba/pdfdoc/Numerical_Optimization.pdf) by Jorge Nocedal and Stephen J. Wright, 1999
 * [Real Time Monocular 3D Reconstruction](https://fradelg.gitbooks.io/real-time-3d-reconstruction-from-monocular-video/content/index.html) by Fco. Javier Delgado del Hoyo, 2015
+* [Basic Knowlege on Visual Slam: From Theory to Practice](https://github.com/gaoxiang12/slambook-en) by Xiang Gao, Tao Zhang, Qinrui Yan and Yi Liu, 2021
 
 
 #### Papers
